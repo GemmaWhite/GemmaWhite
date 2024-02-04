@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GemmaWhite
 - 👀 I’m interested in developing my skills to be a data analyst and storyteller!
 - 🌱 I’m currently learning PostgreSQL & data visualisation.
-- 📫 How to reach me: LinkedIn - https://www.linkedin.com/in/gemma-white-852714191/
+- 📫 How to reach me: LinkedIn
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: My goal is to be the Abby Sciuto of the data analytics world!
 
